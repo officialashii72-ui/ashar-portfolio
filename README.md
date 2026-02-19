@@ -171,10 +171,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Ashar Iftikhar**
 
-- Website: [Your Website](https://yourwebsite.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: ashar@example.com
+- Website: https://ashariftikhar.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/ashariftikharofficial
+- Email: officialashii72@gmail.com
 
 ## 🙏 Acknowledgments
 
