@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website showcasing web development projects, skills, and professional experience. Built with vanilla HTML, CSS, and JavaScript for optimal performance and simplicity.
 
+LIVE PREVIEW: https://ashir-iftikhar.vercel.app/
+
 ![Portfolio Preview](https://via.placeholder.com/1200x600?text=Portfolio+Preview)
 
 ## 🚀 Features
